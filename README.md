@@ -196,11 +196,11 @@ if (safetyDistance>=76 && safetyDistance<=100)
 
 2. Instalar la libreria de DHT sensor library for ESPx y en la siguiente imagen se muestran las librerias empleadas.
 
-![](libreria)
+![](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/librerias.png?raw=true)
 
-3. Hacer las concexiones del sensor ultrasonico HC-SR04, el DHT22 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
+3. Hacer las concexiones del sensor ultrasonico HC-SR04 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
-![](conexiones)
+![](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/conexiones.png?raw=true)
 
 ## Librerias empleadas
 1. DHT sensor library for ESPx
@@ -220,24 +220,24 @@ Una vez realizados los pasos anteriores deberas visualizar los elementos solicit
 
 ## Pantalla 1:
 
-![](diplomado)
+![](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/diplomado.png?raw=true)
 
 ## Pantalla 2:
 
-![](nombre)
+![](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/nombre.png?raw=true)
 
 ## Pantalla 3:
 
-![](fecha)
+![](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/fecha.png?raw=true)
 ## Pantallas posibles segun el nivel de llenado del tanque
 
-![image](25)
+![image](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/25.png?raw=true)
 
-![image](50)
+![image](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/50.png?raw=true)
 
-![image](75)
+![image](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/75.png?raw=true)
 
-![image](100)
+![image](https://github.com/HV202506/Practica-ESP32-LCD-ULTRASONICO-LED--para-nivel-/blob/main/100.png?raw=true)
 
 # Créditos
 
